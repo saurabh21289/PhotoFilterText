@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "c344db380a91dc57e401334b8f107c3b"
+build_time: [529470996, 795736000]
+inputs:
+  "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/ViewController.swift": [525033391, 0]
+  "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift": [525030406, 0]
+  "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/AppDelegate.swift": [524959667, 0]

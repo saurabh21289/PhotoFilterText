@@ -1,0 +1,155 @@
+[
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 611,
+  "text": "file",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 764,
+  "remove": 2,
+  "text": "isUs",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 879,
+  "text": "file",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1026,
+  "remove": 14,
+  "text": ".w",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1098,
+  "remove": 1,
+  "text": "c",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1140,
+  "remove": 6,
+  "text": "e",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1184,
+  "remove": 6,
+  "text": "e",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1233,
+  "remove": 1,
+  "text": "d",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1288,
+  "remove": 1,
+  "text": "d",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1452,
+  "text": "file",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1747,
+  "remove": 1,
+  "text": ".z",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 1881,
+  "text": "file",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2010,
+  "text": "file",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2156,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2211,
+  "remove": 3,
+  "text": "r",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2280,
+  "remove": 2,
+  "text": "isHi",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2400,
+  "remove": 2,
+  "text": "isHi",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2452,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2602,
+  "remove": 7,
+  "text": "(in: ",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2721,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2768,
+  "remove": 6,
+  "text": "n",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2882,
+  "remove": 5,
+  "text": ",",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 2992,
+  "remove": 7,
+  "text": "(att",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 3006,
+  "remove": 1,
+  "text": ": ",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 3052,
+  "remove": 1,
+  "text": ".z",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 3379,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/DIImageView.swift",
+  "offset": 3552,
+  "remove": 2,
+  "text": "isHi",
+ }
+]

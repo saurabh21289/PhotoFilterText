@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="1D8-yg-agu">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Filter-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="PhotoFilters_Text" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clearsContextBeforeDrawing="NO" contentMode="scaleAspectFill" semanticContentAttribute="playback" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="Capture 2.JPG" translatesAutoresizingMaskIntoConstraints="NO" id="v6i-Ih-2ER" customClass="DIImageView" customModule="PhotoFilters_Text" customModuleProvider="target">
+                                <frame key="frameInset" minY="64" width="600" height="492"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="sn3-1C-d8r" appends="YES" id="kmZ-RH-aab"/>
+                                    <outletCollection property="gestureRecognizers" destination="3AG-e9-viw" appends="YES" id="Vy8-ML-3g5"/>
+                                    <outletCollection property="gestureRecognizers" destination="eIj-Ll-diU" appends="YES" id="mDa-9R-KxO"/>
+                                </connections>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="redraw" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NR1-eJ-m1I">
+                                <frame key="frameInset" minX="181" minY="104" width="239" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="239" id="DPE-EA-6Rr"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.96558167454408017" green="0.95000961261183536" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="v6i-Ih-2ER" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="37l-7X-S6V"/>
+                            <constraint firstItem="v6i-Ih-2ER" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="4nI-VD-dmF"/>
+                            <constraint firstAttribute="trailing" secondItem="v6i-Ih-2ER" secondAttribute="trailing" id="BSp-gB-G62"/>
+                            <constraint firstItem="v6i-Ih-2ER" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="J3J-Hb-2M8"/>
+                            <constraint firstItem="NR1-eJ-m1I" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="40" id="mRD-x7-AoA"/>
+                            <constraint firstItem="NR1-eJ-m1I" firstAttribute="centerX" secondItem="v6i-Ih-2ER" secondAttribute="centerX" id="snI-Cz-eMZ"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems>
+                        <barButtonItem title="Camera" id="xOA-rJ-RFZ">
+                            <connections>
+                                <action selector="openCameraButton:" destination="BYZ-38-t0r" id="4an-kM-fgG"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="wUG-gz-lYY"/>
+                        <barButtonItem title="Apply Filter" id="FG1-8E-tVe">
+                            <connections>
+                                <action selector="applyFilter:" destination="BYZ-38-t0r" id="136-Dd-KnC"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="JyM-m9-mvB"/>
+                        <barButtonItem title="Photo Library" id="cfI-rE-UPU">
+                            <connections>
+                                <action selector="openPhotoLibraryButton:" destination="BYZ-38-t0r" id="ewA-JE-Rq7"/>
+                            </connections>
+                        </barButtonItem>
+                    </toolbarItems>
+                    <navigationItem key="navigationItem" title="Filter" id="jRs-cj-RC7">
+                        <barButtonItem key="leftBarButtonItem" title="Add text to image" id="7Yj-50-il8" userLabel="myBtn"/>
+                        <barButtonItem key="rightBarButtonItem" title="Save" id="BKa-in-79a">
+                            <connections>
+                                <action selector="saveButton:" destination="BYZ-38-t0r" id="GLQ-Er-UFz"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="openCVVersionLabel" destination="NR1-eJ-m1I" id="Xlp-zn-Pev"/>
+                        <outlet property="photoImageView" destination="v6i-Ih-2ER" id="v7v-zp-FL7"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <pinchGestureRecognizer id="sn3-1C-d8r">
+                    <connections>
+                        <action selector="pinchZoom:" destination="BYZ-38-t0r" id="lQt-K0-3Vj"/>
+                    </connections>
+                </pinchGestureRecognizer>
+                <rotationGestureRecognizer id="3AG-e9-viw">
+                    <connections>
+                        <action selector="rotateGesture:" destination="BYZ-38-t0r" id="13Q-Im-0JK"/>
+                    </connections>
+                </rotationGestureRecognizer>
+                <tapGestureRecognizer id="Tw4-Ux-FXa">
+                    <connections>
+                        <action selector="doubleTapZoom:" destination="BYZ-38-t0r" id="5UL-F9-zON"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <panGestureRecognizer minimumNumberOfTouches="1" id="eIj-Ll-diU"/>
+            </objects>
+            <point key="canvasLocation" x="1167" y="400"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Ix8-aB-bYk">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" toolbarHidden="NO" id="1D8-yg-agu" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="J7I-VZ-LfS">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="9Jv-Fs-kMM">
+                        <rect key="frame" x="0.0" y="623" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </toolbar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="Ny0-fg-xCM"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jlR-j9-fus" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="355" y="1060"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Capture 2.JPG" width="1916" height="1014"/>
+    </resources>
+</document>

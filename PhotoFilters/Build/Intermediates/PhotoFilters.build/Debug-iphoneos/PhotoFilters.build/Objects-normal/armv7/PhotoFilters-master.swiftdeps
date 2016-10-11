@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "393032bb1161d9232dd555099f7b1eb7"
+build_time: [524826143, 669965000]
+inputs:
+  "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/ViewController.swift": [524822412, 0]
+  "/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/AppDelegate.swift": [524818662, 0]

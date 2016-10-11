@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/OpenCVWrapper.mm \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/OpenCVWrapper.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/opencv.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/opencv_modules.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/core/core_c.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/core/types_c.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/core/core.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/core/version.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/core/operations.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/core/mat.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/flann/miniflann.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/flann/defines.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/flann/config.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/imgproc/imgproc_c.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/imgproc/types_c.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/imgproc/imgproc.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/photo/photo.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/photo/photo_c.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/video/video.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/video/tracking.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/video/background_segm.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/features2d/features2d.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/objdetect/objdetect.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/calib3d/calib3d.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/core/affine.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/ml/ml.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/highgui/highgui_c.h \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/highgui/highgui.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/contrib/contrib.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/contrib/retina.hpp \
+  /Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/PhotoFilters/opencv2.framework/Headers/contrib/openfabmap.hpp
