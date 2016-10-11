@@ -1,1 +1,1 @@
-/Users/K1NG/Code/iOSstuff/PhotoFilter/PhotoFilters/Build/Intermediates/ArchiveIntermediates/PhotoFilters/InstallationBuildProductsLocation/Applications/PhotoFilters&Text.app
+/Users/K1NG/Code/PhotoFilterText/PhotoFilters/Build/Intermediates/ArchiveIntermediates/PhotoFilters/InstallationBuildProductsLocation/Applications/PhotoFilters&Text.app

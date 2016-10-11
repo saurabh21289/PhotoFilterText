@@ -35,7 +35,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SOxyKOM6MSZbyi+CT8wSEQL6lUg=
+			boWv6iX3BnAH4HFfK/zrScPRYYA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -53,11 +53,15 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+EUSXBoUFj6mPpl/xhpjUO5UFPM=
+			vZR1WbXVK+p675FGegG2YANd5gQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Capture 2.JPG</key>
+		<data>
+		E0VIwyPZ6g39LwwrjzazX4DTFk0=
+		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
 		RKPZwg5bQW4yxWtj5ylG27xcxgQ=
@@ -168,11 +172,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SOxyKOM6MSZbyi+CT8wSEQL6lUg=
+			boWv6iX3BnAH4HFfK/zrScPRYYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			zzqysg3RLWcLUBSyUBoLK2yYVaEhYA20aE7QmgcKT7o=
+			msvylEohh6XssEP6S2zilel6+uHN3yN98xQypSS2OjQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -194,14 +198,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+EUSXBoUFj6mPpl/xhpjUO5UFPM=
+			vZR1WbXVK+p675FGegG2YANd5gQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			1vAnU5umS0dT+doxo1V06/rNf3K36XEE2j5/2C5RRLk=
+			pCM30y934DNC4GpXEsTJihIK22BvTYHCWkuISaUGDHI=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Capture 2.JPG</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E0VIwyPZ6g39LwwrjzazX4DTFk0=
+			</data>
+			<key>hash2</key>
+			<data>
+			13QhyDUxXcZ7TXDlNd4wHc3FA7u/KvmSW9DiekY09KQ=
+			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<dict>
